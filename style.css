@@ -12,6 +12,10 @@ li:last-child {
     background-color: yellow;
   }
 
+tr:last-child{
+    background-color: green;
+}
+
   form{
     display:flex;
     margin: 3em;

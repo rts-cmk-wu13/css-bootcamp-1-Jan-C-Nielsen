@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    font-family: Abel;
+    margin: 5em;
+}
+
+
+li:last-child {
+    background-color: yellow;
+  }
+
+  form{
+    display:flex;
+    margin: 3em;
+  }
+
+footer h2{
+    color: blue;
+}
